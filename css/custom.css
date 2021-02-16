@@ -1,0 +1,8 @@
+.center {
+    margin: 40px;
+    justify-content: center;
+    align-items: center;
+}
+.btn-left-mr{
+    margin-left:10px;
+}
